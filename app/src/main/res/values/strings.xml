@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">mathExamQuiz</string>
+    <string name="answer_following_question">Answer the following question</string>
+    <string name="question_text_1">8*8+8</string>
+    <string name="question_text_2">8/8+8</string>
+    <string name="question_text_3">8-8+8</string>
+    <string name="question_text_4">8*8*8</string>
+    <string name="question_text_5">8*8/8</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+</resources>
